@@ -333,6 +333,8 @@ int howManyBits(int x) {
  *   Rating: 4
  */
 unsigned floatScale2(unsigned uf) {
+
+
   return 2;
 }
 /* 
